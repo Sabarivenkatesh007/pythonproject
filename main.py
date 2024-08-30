@@ -1,1 +1,1 @@
-print("Welcome to project")
+print("Welcome to project")print("second day project")
